@@ -1,0 +1,2 @@
+color para el logo, el amarillo: #fed136
+
